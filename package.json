@@ -15,7 +15,7 @@
     "@babel/polyfill": "^7.8.3",
     "bcrypt-nodejs": "0.0.3",
     "connect-flash": "^0.1.1",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-session": "^1.17.0",
     "mongoose": "^5.9.2",
     "morgan": "^1.9.1",
